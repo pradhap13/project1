@@ -11,8 +11,16 @@ public class A {
 	public void A2() {
 	    System.out.println("A2");
 	}
-	@Test	
+    @Test	
 	public void A3() {
 		System.out.println("A3");
+	}
+	@Test	
+	public void A4() {
+		System.out.println("A4");
+	}
+	@Test	
+	public void A5() {
+    	System.out.println("A5");
 }
 }
